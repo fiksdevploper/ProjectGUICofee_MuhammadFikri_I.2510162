@@ -253,7 +253,7 @@ java -version
 ## 📚 Mata Kuliah
 
 > **Pemrograman Berorientasi Objek (PBO)**  
-> Program Studi Teknik Informatika  
+> Program Studi Ilmu Komputer  
 > Universitas Djuanda Bogor
 
 ---
